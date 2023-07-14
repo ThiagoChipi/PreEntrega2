@@ -1,0 +1,131 @@
+@font-face {
+    font-family: Type Machine;
+    src: url(./jmh_typewriter/Type\ Machine.ttf)
+}
+
+
+body {
+    font-family: Type Machine;
+    font-style: normal;
+    background-color: black;
+}
+
+iframe {
+    display: block;
+    padding: 0.5rem 1rem;
+    margin: 0 auto;
+}
+
+h1 {
+    color: white
+}
+
+h1 {
+    text-align: center;
+    border: 3px solid black;
+    margin-bottom: 21, 44px;
+}
+
+.imagen1 {
+    width: 350px;
+    height: 350px;
+}
+
+.imagen2 {
+    width: 350px;
+    height: 350px;
+}
+
+.imagen3 {
+    width: 350px;
+    height: 350px;
+}
+
+.imagen4 {
+    width: 350px;
+    height: 350px;
+
+}
+
+.hiper {
+    color: white
+}
+
+.hiper {
+    text-decoration: none;
+}
+
+.hiper {
+    font-size: xx-large
+}
+
+.hiper {
+    border: 5px;
+    padding: 5px;
+    margin: 231px;
+}
+
+.titulo {
+    color: white
+}
+
+.titulo {
+    text-decoration: none;
+}
+
+.playlist {
+    height: 500px;
+    width: 500px;
+    padding: 60px;
+    margin: 60px;
+    display: inline-block;
+
+}
+
+h3 {
+    text-align: center;
+    color: white
+}
+
+.casilla {
+    display: block;
+    padding: 0.5rem 1rem;
+    width: 200px;
+    margin: 0 auto;
+    font-family: Type Machine;
+
+}
+
+.enviar {
+    display: block;
+    padding: 0.5rem 1rem;
+    width: 200px;
+    margin: 0 auto;
+    font-family: Type Machine;
+}
+
+header {
+    border-bottom: solid 2px white;
+
+}
+
+h2 {
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+    margin: 10px;
+}
+
+header {
+    display: inline-block;
+
+}
+
+.video {
+    margin: 0 auto;
+    width: 300px;
+    display: block;
+    width: 1280px;
+    height: 720px;
+    border: solid 2px white;
+}
